@@ -2,7 +2,7 @@ Flame-igo:
 =========
 
 Flamigo, not to be confused with Flamingo, is an open source game based on the Chilli X Driect X Framework. 
-This project is partially developed with help from other users based on the http://www.planetchili.com forums.
+This project is partially developed with help from other users based on the http://www.planetchili.net forums.
 
 The game revolves around a few players in an open map, all with flamethrowers or knives, in a deathmatch style game.
 Last player standing, wins :)
